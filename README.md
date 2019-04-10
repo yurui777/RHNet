@@ -17,7 +17,7 @@ run `python train.py`
 run `python test.py`
 
 ## Results
-
+details in `result.jpg`
 
 ## Citations:
 RHNet: Lightweight Dilated Convolutional Networks for Dense Objects Counting
