@@ -1,5 +1,5 @@
 # RHNet
-This is a lightweight network for crowd counting. 
+This is a lightweight network for crowd counting. One part of my master's dissertation.
 
 ## Environment
 tensorflow 1.12.0; python 3.6 
